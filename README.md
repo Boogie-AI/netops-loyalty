@@ -22,8 +22,8 @@
 
 <!-- Drop images into /docs and update these paths -->
 |  Backoffice |
-|---|---|---|
-| ![Backoffice](docs/backoffice.png) || Member search | ![Search](docs/search.png) |
+
+ ![Backoffice](docs/backoffice.png) | Member search | ![Search](docs/search.png) 
 
 ---
 
