@@ -23,7 +23,7 @@
 <!-- Drop images into /docs and update these paths -->
 | Mobile app | Backoffice | Member search |
 |---|---|---|
-| ![App](docs/app.png) | ![Backoffice](docs/backoffice.png) | ![Search](docs/search.png) |
+| ![App](docs/app.png) | ![Backoffice](docs/backoffice.png) | ![Search](docs/member search.png) |
 
 ---
 
