@@ -21,9 +21,9 @@
 ## Screenshots
 
 <!-- Drop images into /docs and update these paths -->
-| Mobile app | Backoffice | Member search |
+|  Backoffice | Member search |
 |---|---|---|
-| ![App](Hidden) | ![Backoffice](docs/backoffice.png) | ![Search](docs/search.png) |
+| ![Backoffice](docs/backoffice.png) | ![Search](docs/search.png) |
 
 ---
 
