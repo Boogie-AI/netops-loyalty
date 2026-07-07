@@ -21,9 +21,9 @@
 ## Screenshots
 
 <!-- Drop images into /docs and update these paths -->
-|  Backoffice | Member search |
+|  Backoffice |
 |---|---|---|
-| ![Backoffice](docs/backoffice.png) | ![Search](docs/search.png) |
+| ![Backoffice](docs/backoffice.png) || Member search | ![Search](docs/search.png) |
 
 ---
 
